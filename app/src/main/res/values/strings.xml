@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">PrivacyPolicy Generator</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cookies">Do you use cookies?</string>
+    <string name="policy_type">Who will use this policy?</string>
+    <string name="individual">Individual</string>
+    <string name="company">Company</string>
+    <string name="app_name_website_name">Enter your App/Website Name</string>
+    <string name="message">Message</string>
+
+    <string name="send">Send</string>
+
+    <string name="email">Email</string>
+
+    <string name="name">Name</string>
+
+    <string-array name="licenseoptions">
+        <item>open source</item>
+        <item>Free</item>
+        <item>Freemium</item>
+        <item>Ad supported</item>
+        <item>Commercial</item>
+    </string-array>
+    <string name="choose_license">Choose license</string>
+    <string name="name_company_name">Enter your Name/Company Name</string>
+    <string name="copy_html">Copy HTML</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="is_this_policy_for_an_app_or_website">For</string>
+    <string name="app">App</string>
+    <string name="website">Url or App Name</string>
+    <string name="sample_placeholder_text">Privacy Policy Will be shown here</string>
+    <string name="generate">Create</string>
+    <string name="websitetype">website</string>
+    <string name="iorComp">To be created by</string>
+    <string name="copy">Copy</string>
+    <string name="save">Save</string>
+    <string name="heading">Privacy Policy</string>
+    <string name="main_activity_explanation"><![CDATA[>Click the button to create your Privacy Policy]]></string>
+    <string name="form_discard_question">Discard Policy?</string>
+    <string name="form_info_will_be_lost">All the information about this new policy will be lost</string>
+    <string name="form_discard">Discard</string>
+    <string name="form_discard_cancel">Cancel</string>
+    <string name="form_sending_data_message">Creating new Policy ...</string>
+    <string name="main_activity_alarm_added_info">Policy by %s created for %s with %s license </string>
+    <string name="new_alarm_added">New policy created successfully</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_app">App</string>
+    <string name="menu_website">Website</string>
+    <string name="menu_history">History</string>
+</resources>

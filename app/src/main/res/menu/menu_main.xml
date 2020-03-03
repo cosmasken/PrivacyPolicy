@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ke.co.harambeeapps.privacypolicy.Details">
+
+    <group
+        android:id="@+id/main_menu_group">
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/copy"
+            android:orderInCategory="100"
+            android:title="@string/copy"
+            app:showAsAction="never" />
+    </group>
+</menu>
